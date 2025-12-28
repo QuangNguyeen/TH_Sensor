@@ -15,3 +15,15 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # TH_Sensor
+
+## Explorer Tool Demo
+![Demo Motion Tracker](assets/images/ExplorerTool.png)
+
+## Light Meter Demo
+![Demo Motion Tracker](assets/images/LightMeter.png)
+
+## Motion Tracker Demo
+![Demo Motion Tracker](assets/images/MotionTracker.png)
+
+
+
